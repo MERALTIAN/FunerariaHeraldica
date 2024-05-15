@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JInternalFrame.java to edit this template
  */
 package Vista;
-
+//hola
 import Modelo.Beneficiario;
 
 import java.awt.HeadlessException;
